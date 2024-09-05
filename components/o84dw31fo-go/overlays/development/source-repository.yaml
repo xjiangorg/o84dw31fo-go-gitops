@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: o84dw31fo-go-repository
+spec:
+  url: https://github.com/xjiangorg/o84dw31fo-go
